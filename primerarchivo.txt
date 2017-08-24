@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 Chema me cae mal
 
 
-
-=======
 hola hola
->>>>>>> dcea0c598be348cc8c06dc0c53f8aee1e915d55d
 
